@@ -46,6 +46,9 @@
     },
     "maps": {
       "type": "string"
+    },
+    "exist": {
+      "type": "boolean"
     }
   }
 }
